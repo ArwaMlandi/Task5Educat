@@ -1,0 +1,288 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "image": "/Task4Educat/src/assets/images/img5.jpg",
+      "count": "71 lesson",
+      "rate": "4.8",
+      "title": "Education Science Title",
+      "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. t",
+      "price": 49.99,
+      "link": "Learn More"
+    },
+    {
+      "id": 2,
+      "image": "/Task4Educat/src/assets/images/img6.jpg",
+      "count": "81 lesson",
+      "rate": "3.8",
+      "title": "Education English Title",
+      "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. ",
+      "price": 24.50,
+      "link": "Learn More"
+    },
+    {
+      "id": 3,
+      "image": "/Task4Educat/src/assets/images/img2.jpg",
+      "count": "47 lesson",
+      "rate": "3.7",
+      "title": "Education Arts Title",
+      "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. ",
+      "price": 14.47,
+      "link": "Learn More"
+    },
+    {
+      "id": 4,
+      "image": "/Task4Educat/src/assets/images/img1.jpg",
+      "count": "55 lesson",
+      "rate": "5",
+      "title": "Education Math Title",
+      "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. t",
+      "price": "$69.79",
+      "link": "Learn More"
+    },
+    {
+      "id": 5,
+      "image": "/Task4Educat/src/assets/images/img13.jpg",
+      "count": "63 lesson",
+      "rate": "4.6",
+      "title": "Education Arabic  Title",
+      "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. t",
+      "price": 84.00,
+      "link": "Learn More"
+    },
+    {
+      "id": 6,
+      "image": "/Task4Educat/src/assets/images/img3-2.jpg",
+      "count": "37 lesson",
+      "rate": "4.2",
+      "title": "Education Program Title",
+      "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. t",
+      "price": 70.49,
+      "link": "Learn More"
+    },
+    {
+      "id": 7,
+      "image": "/Task4Educat/src/assets/images/img4.jpg",
+      "count": "33 lesson",
+      "rate": "398",
+      "title": "Education Sport Title",
+      "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. t",
+      "price": 22.99,
+      "link": "Learn More"
+    },
+    {
+      "id": 8,
+      "image": "/Task4Educat/src/assets/images/img7.jpg",
+      "count": "62 lesson",
+      "rate": "3.6",
+      "title": "Education Writing Title",
+      "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. t",
+      "price": 80.95,
+      "link": "Learn More"
+    },
+    {
+      "id": 9,
+      "image": "/Task4Educat/src/assets/images/img8.jpg",
+      "count": "28 lesson",
+      "rate": "3.9",
+      "title": "Education Reading Title",
+      "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. t",
+      "price": 50.00,
+      "link": "Learn More"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "image": "/Task4Educat/src/assets/images/teach1.jpg",
+      "Name": "Mr. ALI MOHAMMAD",
+      "specialization":"Math",
+      "phone": "+963 935 124 214",
+      "email": "alidd2@gmail.com"
+     
+    },
+    {
+      "id": 2,
+      "image": "/Task4Educat/src/assets/images/teach2.jpg",
+      "Name": "Miss. RAMA SAEED",
+      "specialization":"Arabic",
+      "phone": "+963 975 714 504",
+      "email": "rss21@gmail.com"
+     
+    },
+    
+    {
+      "id": 3,
+      "image": "/Task4Educat/src/assets/images/teach3.jpg",
+      "Name": "Miss. MARWA SULIMAN",
+      "specialization":"Science",
+      "phone": "+963 971 457 110",
+      "email": "marwamarwa@gmail.com"
+     
+    },
+    {
+      "id": 4,
+      "image": "/Task4Educat/src/assets/images/teach4.jpg",
+      "Name": "Miss. JULIA RAMI",
+      "specialization":"English",
+      "phone": "+963 925 784 500",
+      "email": "m9090@gmail.com"
+     
+    },
+    {
+      "id": 5,
+      "image": "/Task4Educat/src/assets/images/teach5.jpg",
+      "Name": "Mr. AHMED MAHMOUD",
+      "specialization":"Arts",
+      "phone": "+963 940 724 210",
+      "email": "kvv254@gmail.com"
+     
+    },
+    {
+      "id": 6,
+      "image": "/Task4Educat/src/assets/images/teach6.jpg",
+      "Name": "Miss. SALAM MASRI",
+      "specialization":"English",
+      "phone": "+963 945 124 700",
+      "email": "SLh99@gmail.com"
+     
+    },
+    {
+      "id": 7,
+      "image": "/Task4Educat/src/assets/images/teach7.jpg",
+      "Name": "Mr. MAZEN ZENO",
+      "specialization":"Program",
+      "phone": "+963 944 887 207",
+      "email": "MMA54@gmail.com"
+     
+    },
+    {
+      "id": 8,
+      "image": "/Task4Educat/src/assets/images/teach8.jpg",
+      "Name": "Mr. SHADI OMAR",
+      "specialization":"France",
+      "phone": "+963 945 545 545",
+      "email": "shadiamml5@gmail.com"
+     
+    }
+    
+
+    
+  ],
+  "students": [
+    {
+      "id": 1,
+      "image": "/Task4Educat/src/assets/images/st1.jpg",
+      "title": "Miss",
+      "FirstName": "Rama",
+      "LastName": "Ali",
+      "age": "13",
+      "phone": "+963 935 124 214",
+      "email": "rama54@gmail.com"
+     
+    },
+    {
+      "id": 2,
+      "image": "/Task4Educat/src/assets/images/st5.jpg",
+      "title": "Mrs",
+      "FirstName": "Omar",
+      "LastName": "Salem",
+      "age": "10",
+      "phone": "+963 945 224 744",
+      "email": "omarss21@gmail.com"
+     
+    },
+    
+    {
+      "id": 3,
+      "image": "/Task4Educat/src/assets/images/st2.jpg",
+      "title": "Miss",
+      "FirstName": "Aya",
+      "LastName": "Annos",
+      "age": "10",
+      "phone": "+963 971 457 110",
+      "email": "ayabb45@gmail.com"
+     
+    },
+    {
+      "id": 4,
+      "image": "/Task4Educat/src/assets/images/st9.jpg",
+      "title": "Miss",
+      "FirstName": "Sham",
+      "LastName": "Ahmed",
+      "age": "11",
+      "phone": "+963 925 784 500",
+      "email": "sham9090@gmail.com"
+     
+    },
+    {
+      "id": 5,
+      "image": "/Task4Educat/src/assets/images/st8.jpg",
+      "title": "Mrs",
+      "FirstName": "Karem",
+      "LastName": "Sabri",
+      "age": "9",
+      "phone": "+963 940 724 210",
+      "email": "k254@gmail.com"
+     
+    },
+    {
+      "id": 6,
+      "image": "/Task4Educat/src/assets/images/st10.jpg",
+      "title": "Mrs",
+      "FirstName": "Mohammad",
+      "LastName": "Raai",
+      "age": "9",
+      "phone": "+963 945 124 700",
+      "email": "moh99@gmail.com"
+     
+    },
+    {
+      "id": 7,
+      "image": "/Task4Educat/src/assets/images/st11.jpg",
+      "title": "Mrs",
+      "FirstName": "Ghaith",
+      "LastName": "Shaar",
+      "age": "10",
+      "phone": "+963 944 887 207",
+      "email": "ghaith54@gmail.com"
+     
+    },
+    {
+      "id": 8,
+      "image": "/Task4Educat/src/assets/images/st6.jpg",
+      "title": "Miss",
+      "FirstName": "Safa",
+      "LastName": "Rajab",
+      "age": "12",
+      "phone": "+963 945 545 545",
+      "email": "safamml5@gmail.com"
+     
+    },
+    {
+      "id": 9,
+      "image": "/Task4Educat/src/assets/images/st12.jpg",
+      "title": "Mrs",
+      "FirstName": "Sami",
+      "LastName": "Eskandar",
+      "age": "11",
+      "phone": "+963 999 254 274",
+      "email": "eskand112@gmail.com"
+     
+    },
+    {
+      "id": 10,
+      "image": "/Task4Educat/src/assets/images/st7.jpg",
+      "title": "Miss",
+      "FirstName": "Lojain",
+      "LastName": "Alaa",
+      "age": "11",
+      "phone": "+963 922 714 985",
+      "email": "lolo4333@gmail.com"
+     
+    }
+
+    
+  ]
+
+}
