@@ -5,4 +5,11 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base:"/Task5",
   plugins: [react()],
+  build: {
+    rollupOptions: {
+      // Add 'redux-persist' to external dependencies
+      external: ["redux-persist/integration/react"],
+    },
+  },
+  
 })
