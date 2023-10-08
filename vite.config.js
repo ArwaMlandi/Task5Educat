@@ -7,8 +7,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      // Add 'redux-persist' to external dependencies
-      external: ["redux-persist/integration/react"],
+      external: ["redux-persist"],
     },
   },
   
