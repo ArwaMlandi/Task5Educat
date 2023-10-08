@@ -7,8 +7,9 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ["redux-persist"],
+      external: ["redux-persist/integration/react"],
     },
+  
   },
   
 })
