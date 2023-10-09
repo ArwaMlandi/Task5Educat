@@ -21,7 +21,7 @@ function NaveBarDown() {
       </div>
       <ul className="menue" style={{ top: menueopen && "0" }}>
         <li className={`nav-item ${activeItem === "home" ? "active" : ""}`}>
-          <Link onClick={() => handleClick("home")} to="/Task5/">
+          <Link onClick={() => handleClick("home")} to="/task5Educat/">
             Home
           </Link>
         </li>
@@ -50,34 +50,34 @@ function NaveBarDown() {
           </ul>
         </li>
         <li className={`nav-item ${activeItem === "about" ? "active" : ""}`}>
-          <Link to="/Task5/about" onClick={() => handleClick("about")}>
+          <Link to="/task5Educat/about" onClick={() => handleClick("about")}>
             About
           </Link>
         </li>
         <li className={`nav-item ${activeItem === "news" ? "active" : ""}`}>
-          <Link to="/Task5/news" onClick={() => handleClick("news")}>
+          <Link to="/task5Educat/news" onClick={() => handleClick("news")}>
             News
           </Link>
         </li>
         <li className={`nav-item ${activeItem === "course" ? "active" : ""}`}>
-          <Link to="/Task5/course" onClick={() => handleClick("course")}>
+          <Link to="/task5Educat/course" onClick={() => handleClick("course")}>
             Courses
           </Link>
         </li>
         <li className={`nav-item ${activeItem === "teachers" ? "active" : ""}`}>
-          <Link to="/Task5/teachers" onClick={() => handleClick("teachers")}>
+          <Link to="/task5Educat/teachers" onClick={() => handleClick("teachers")}>
             Our Teachers
           </Link>
         </li>
 
        
         <li className={`nav-item ${activeItem === "students" ? "active" : ""}`}>
-          <Link to="/Task5/students" onClick={() => handleClick("students")}>
+          <Link to="/task5Educat/students" onClick={() => handleClick("students")}>
             Students
           </Link>
         </li>
         <li className={`nav-item ${activeItem === "contact" ? "active" : ""}`}>
-          <Link to="/Task5/favourite" onClick={() => handleClick("contact")}>
+          <Link to="/task5Educat/favourite" onClick={() => handleClick("contact")}>
           Favourite <BiHeart/>
          
           </Link>

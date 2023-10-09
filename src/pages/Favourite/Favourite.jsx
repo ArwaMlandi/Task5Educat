@@ -101,7 +101,7 @@ const containerAllStyle = {
       >
         Reset Favourite
       </button>
-      <Link to="/Task5/course">
+      <Link to="/task5Educat/course">
         <button className="go-shopping-button">
           <span>
             <HiOutlineArrowLeft />

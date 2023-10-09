@@ -28,7 +28,7 @@ const Layout = () => {
 
 const router = createBrowserRouter([
   {
-    path: "/Task5",
+    path: "/task5Educat",
     element: <Layout />,
     children: [
       {

@@ -73,7 +73,7 @@ const CourseHome = ({coursedata}) => {
           ))}
            </AnimatePresence>
         </div>
-        <Link to="/Task5/course">
+        <Link to="/task5Educat/course">
         <p className="coursr-link-see">See More <span ><MdArrowRight/></span></p>
         </Link>
       </div>
